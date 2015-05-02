@@ -1,4 +1,4 @@
-package com.javapapers.androidreceivesms;
+package com.java.smsactivity;
 
 import java.util.List;
 import java.util.regex.Matcher;

@@ -1,4 +1,4 @@
-package com.javapapers.androidreceivesms;
+package com.java.smsactivity;
 
 import android.app.Activity;
 import android.content.ContentResolver;
